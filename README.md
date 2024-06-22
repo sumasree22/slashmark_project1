@@ -3,7 +3,7 @@ Task 1 : Product Landing Page
 
 Product landing page you will use columns and align the components of the landing page within columns. Basic editing tasks like cropping images and making use of design templates are also covered in this.
 
-#HTML  and css code
+#HTML code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -128,7 +128,7 @@ Product landing page you will use columns and align the components of the landin
     </footer>
 </body>
 </html>
-<style>
+#css code
   /* Basic Reset */
 * {
     margin: 0;
@@ -268,7 +268,7 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
-</style>
+
 
 
 
@@ -278,7 +278,7 @@ Task 2 : Basic Portfolio Website
 You must try making your own portfolio website for yourself. Showcase your projects, your social media handles, your experience on the website. You can refer to some templates available for free on Google for that.
 
 
-#HTML and css code
+#HTML code
 
 <!DOCTYPE html>
 <html lang="en">
@@ -343,7 +343,7 @@ You must try making your own portfolio website for yourself. Showcase your proje
     </footer>
 </body>
 </html>
-<style>
+#css code
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -414,7 +414,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
-</style>
+
 
 
 Task 3 :Weather Forecast Website
